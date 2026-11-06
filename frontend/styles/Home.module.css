@@ -1,0 +1,14 @@
+.actions {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.h1{
+  color:aliceblue
+}
+
+.tabale tr td{
+  background-color: black;
+  color: aliceblue;
+}

@@ -1,0 +1,17 @@
+# Local settings and credentials
+.env
+.env.local
+.env.*.local
+!.env.example
+*.user
+*.suo
+.vs/
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+.next/
+bin/
+obj/
+target/
+*.log

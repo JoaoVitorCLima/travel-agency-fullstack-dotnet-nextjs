@@ -1,0 +1,78 @@
+/* styles/globals.css */
+
+/* Estilos globais para o corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para o cabeçalho da página */
+h1 {
+  text-align: center;
+  background-color: #333;
+  padding: 20px;
+}
+
+/* Estilos para os links de navegação */
+a {
+  text-decoration: none;
+  margin: 10px;
+  padding: 5px 10px;
+  border: 1px solid #333;
+  background-color: #333;
+  color: #fff;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+a:hover {
+  background-color: #555;
+}
+
+/* Estilos para a seção de ações */
+.actions {
+  text-align: center;
+  margin: 20px;
+}
+
+/* Estilos para os campos de entrada */
+input {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Estilos para botões */
+button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+/* Estilos para listas */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+table tr td {
+  background-color: #333;
+  color: white;
+}
